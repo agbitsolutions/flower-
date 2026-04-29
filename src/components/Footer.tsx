@@ -41,7 +41,8 @@ const Footer = () => {
           <h4 className="text-xs uppercase tracking-widest mb-8 opacity-40">Contact</h4>
           <ul className="space-y-4 text-sm font-sans">
             <li>support@agbtechnologies.com</li>
-            <li>Vishveshwar  <br /> Mangalwarpeth Pune 41101 </li>
+            <li>90498747804</li>
+            <li>mangalwar peth pune</li>
             <li className="pt-4 flex space-x-6">
               <Share2 size={18} className="hover:opacity-40 cursor-pointer" />
               <MessageCircle size={18} className="hover:opacity-40 cursor-pointer" />
@@ -52,7 +53,7 @@ const Footer = () => {
       </div>
 
       <div className="flex flex-col md:flex-row justify-between items-center text-[10px] uppercase tracking-[0.2em] opacity-40">
-        <p>© 2024 Petal & Grace. All Rights Reserved.</p>
+        <p>© 2024 agbtechnologies. All Rights Reserved.</p>
         <div className="flex space-x-8 mt-4 md:mt-0">
           <a href="/privacy" className="hover:opacity-100 transition-opacity">Privacy Policy</a>
           <a href="/terms" className="hover:opacity-100 transition-opacity">Terms of Service</a>

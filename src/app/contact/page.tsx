@@ -40,7 +40,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest opacity-40 mb-1">Email</p>
-                  <p>hello@petalandgrace.com</p>
+                  <p>support@agbtechnologies.com</p>
                 </div>
               </div>
               <div className="flex items-center space-x-6">
@@ -49,7 +49,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest opacity-40 mb-1">Phone</p>
-                  <p>+1 (213) 555-0123</p>
+                  <p>90498747804</p>
                 </div>
               </div>
               <div className="flex items-center space-x-6">
@@ -58,7 +58,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-widest opacity-40 mb-1">Visit Us</p>
-                  <p>123 Botanical Ave, Los Angeles, CA 90001</p>
+                  <p>mangalwar peth pune</p>
                 </div>
               </div>
             </div>
