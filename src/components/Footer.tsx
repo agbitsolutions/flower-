@@ -40,8 +40,8 @@ const Footer = () => {
         <div>
           <h4 className="text-xs uppercase tracking-widest mb-8 opacity-40">Contact</h4>
           <ul className="space-y-4 text-sm font-sans">
-            <li>hello@petalandgrace.com</li>
-            <li>123 Botanical Ave, <br /> Los Angeles, CA 90001</li>
+            <li>support@agbtechnologies.com</li>
+            <li>Vishveshwar  <br /> Mangalwarpeth Pune 41101 </li>
             <li className="pt-4 flex space-x-6">
               <Share2 size={18} className="hover:opacity-40 cursor-pointer" />
               <MessageCircle size={18} className="hover:opacity-40 cursor-pointer" />
